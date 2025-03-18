@@ -42,7 +42,7 @@ public class Task1 {
         System.out.println("That's it! Hope you enjoyed it.");
         System.out.println("Here is your Score: " + finals);
         
-        sc.close(); // Close Scanner
+        sc.close(); 
     }
 
     public static int getrand(int min, int max) {
